@@ -90,9 +90,8 @@
     border-radius: 0px;
     margin-top: 30px;
     border: none;
-    padding: 10px;
-    padding-inline: 20px;
-    margin-inline: 5px;
+    padding: 10px 20px;
+    margin-left: 10px;
 }
 
 .buttonsrch:hover {
