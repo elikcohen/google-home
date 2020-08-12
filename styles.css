@@ -162,3 +162,6 @@
     padding-left: 10px;
     padding-right: 10px;
 }
+html {
+    visibility: visible; opacity: 1;
+}
